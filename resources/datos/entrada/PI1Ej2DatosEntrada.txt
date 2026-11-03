@@ -1,0 +1,10 @@
+45,ADDA
+87,PracticaIndividual1
+16,II-IS
+36,II-TI
+27,II-IC
+38,ISA
+120,AlgoritmicaBasica
+53,EstructurasDeDatos
+91,RecursividadFinal
+74,GrafosYArboles
